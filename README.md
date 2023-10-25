@@ -1,4 +1,4 @@
-# Bibliotheca
+# Biblio
 Bibliotheca is an interactive application that allows you to manage your personal library of books. You can add, edit, and delete books from a live database, powered by Google Firebase. You can also view the details and ratings of each book, and search for books by title, author, or genre.
 
 ### Technologies
